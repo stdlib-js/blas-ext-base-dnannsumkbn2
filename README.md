@@ -197,6 +197,26 @@ console.log( out );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/blas/ext/base/dnannsum`][@stdlib/blas/ext/base/dnannsum]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values.
+-   [`@stdlib/blas/ext/base/dnannsumkbn`][@stdlib/blas/ext/base/dnannsumkbn]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using an improved Kahan–Babuška algorithm.
+-   [`@stdlib/blas/ext/base/dnannsumors`][@stdlib/blas/ext/base/dnannsumors]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using ordinary recursive summation.
+-   [`@stdlib/blas/ext/base/dnannsumpw`][@stdlib/blas/ext/base/dnannsumpw]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.
+-   [`@stdlib/blas/ext/base/dsumkbn2`][@stdlib/blas/ext/base/dsumkbn2]: calculate the sum of double-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -257,6 +277,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@klein:2005a]: https://doi.org/10.1007/s00607-005-0139-x
+
+<!-- <related-links> -->
+
+[@stdlib/blas/ext/base/dnannsum]: https://github.com/stdlib-js/blas-ext-base-dnannsum
+
+[@stdlib/blas/ext/base/dnannsumkbn]: https://github.com/stdlib-js/blas-ext-base-dnannsumkbn
+
+[@stdlib/blas/ext/base/dnannsumors]: https://github.com/stdlib-js/blas-ext-base-dnannsumors
+
+[@stdlib/blas/ext/base/dnannsumpw]: https://github.com/stdlib-js/blas-ext-base-dnannsumpw
+
+[@stdlib/blas/ext/base/dsumkbn2]: https://github.com/stdlib-js/blas-ext-base-dsumkbn2
+
+<!-- </related-links> -->
 
 </section>
 
