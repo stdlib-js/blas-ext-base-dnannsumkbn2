@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dnannsumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumkbn2@esm/index.mjs';
+import dnannsumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumkbn2@v0.2.2-esm/index.mjs';
 ```
 
 #### dnannsumkbn2( N, x, strideX, out, strideOut )
@@ -163,7 +163,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dnannsumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumkbn2@esm/index.mjs';
+import dnannsumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumkbn2@v0.2.2-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.8 ) > 0 ) {
