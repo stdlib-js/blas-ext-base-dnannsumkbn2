@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-11)
+## Unreleased (2024-11-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f80e82f`](https://github.com/stdlib-js/stdlib/commit/f80e82fac77275db101aaa28f61eebd7024e2c9f) - **refactor:** update `offset` handling and function parameter description for `blas/ext/base/dnannsumkbn2` [(#3123)](https://github.com/stdlib-js/stdlib/pull/3123) _(by Muhammad Haris)_
 -   [`f0ecdad`](https://github.com/stdlib-js/stdlib/commit/f0ecdad9731cd40ae9047a87981d2688693e54dc) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnannsumkbn2` [(#2990)](https://github.com/stdlib-js/stdlib/pull/2990) _(by Muhammad Haris)_
 
 </details>
