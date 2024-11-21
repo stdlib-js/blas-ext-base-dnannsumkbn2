@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-19)
+## Unreleased (2024-11-21)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3186](https://github.com/stdlib-js/stdlib/issues/3186)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`297cdff`](https://github.com/stdlib-js/stdlib/commit/297cdffbf14b0f7cd87b0455b00d4a4fbf3b6cc3) - **test:** add tests to blas/ext/base/dnannsumbn2 [(#3205)](https://github.com/stdlib-js/stdlib/pull/3205) _(by Saurabh Singh, Philipp Burckhardt)_
 -   [`15d040c`](https://github.com/stdlib-js/stdlib/commit/15d040c67472ca6ffb9b3ff9414e39f907ca8294) - **refactor:** remove unnecessary variable declaration [(#3185)](https://github.com/stdlib-js/stdlib/pull/3185) _(by Muhammad Haris)_
 -   [`f80e82f`](https://github.com/stdlib-js/stdlib/commit/f80e82fac77275db101aaa28f61eebd7024e2c9f) - **refactor:** update `offset` handling and function parameter description for `blas/ext/base/dnannsumkbn2` [(#3123)](https://github.com/stdlib-js/stdlib/pull/3123) _(by Muhammad Haris)_
 -   [`f0ecdad`](https://github.com/stdlib-js/stdlib/commit/f0ecdad9731cd40ae9047a87981d2688693e54dc) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnannsumkbn2` [(#2990)](https://github.com/stdlib-js/stdlib/pull/2990) _(by Muhammad Haris)_
@@ -36,9 +49,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Muhammad Haris
+-   Philipp Burckhardt
+-   Saurabh Singh
 
 </section>
 
