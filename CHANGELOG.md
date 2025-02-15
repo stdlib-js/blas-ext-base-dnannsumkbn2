@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-02-15)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d81ba51`](https://github.com/stdlib-js/stdlib/commit/d81ba51451a7b35e5b9fd259fe57cee796f3e81b) - **docs:** update `blas/ext/base/dnannsumkbn2` to follow current project conventions [(#5188)](https://github.com/stdlib-js/stdlib/pull/5188) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`297cdff`](https://github.com/stdlib-js/stdlib/commit/297cdffbf14b0f7cd87b0455b00d4a4fbf3b6cc3) - **test:** add tests to blas/ext/base/dnannsumbn2 [(#3205)](https://github.com/stdlib-js/stdlib/pull/3205) _(by Saurabh Singh, Philipp Burckhardt)_
 -   [`15d040c`](https://github.com/stdlib-js/stdlib/commit/15d040c67472ca6ffb9b3ff9414e39f907ca8294) - **refactor:** remove unnecessary variable declaration [(#3185)](https://github.com/stdlib-js/stdlib/pull/3185) _(by Muhammad Haris)_
