@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-15)
+## Unreleased (2025-09-29)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`08611d0`](https://github.com/stdlib-js/stdlib/commit/08611d0e7ecf48ae7804081f0f5134309974313b) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`d94514b`](https://github.com/stdlib-js/stdlib/commit/d94514bc9418f5b42df6233204d5005d53af00ca) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`c221279`](https://github.com/stdlib-js/stdlib/commit/c2212790b0118b7787b5e292244b4364c08ea05a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`08611d0`](https://github.com/stdlib-js/stdlib/commit/08611d0e7ecf48ae7804081f0f5134309974313b) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`d81ba51`](https://github.com/stdlib-js/stdlib/commit/d81ba51451a7b35e5b9fd259fe57cee796f3e81b) - **docs:** update `blas/ext/base/dnannsumkbn2` to follow current project conventions [(#5188)](https://github.com/stdlib-js/stdlib/pull/5188) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`297cdff`](https://github.com/stdlib-js/stdlib/commit/297cdffbf14b0f7cd87b0455b00d4a4fbf3b6cc3) - **test:** add tests to blas/ext/base/dnannsumbn2 [(#3205)](https://github.com/stdlib-js/stdlib/pull/3205) _(by Saurabh Singh, Philipp Burckhardt)_
@@ -51,8 +64,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
 -   Saurabh Singh

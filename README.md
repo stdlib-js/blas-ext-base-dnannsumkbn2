@@ -290,7 +290,7 @@ double stdlib_strided_dnannsumkbn2_ndarray( const CBLAS_INT N, const double *X, 
 
 ```c
 #include "stdlib/blas/ext/base/dnannsumkbn2.h"
-#include "stdlib/blase/base/shared.h"
+#include "stdlib/blas/base/shared.h"
 #include <stdio.h>
 
 int main( void ) {
