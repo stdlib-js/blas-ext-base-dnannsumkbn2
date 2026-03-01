@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`491c1d6`](https://github.com/stdlib-js/stdlib/commit/491c1d665303b698c8220868eb201ac6467d8805) - **bench:** refactor to use string interpolation in blas/ext/base/dnannsumkbn2 [(#10537)](https://github.com/stdlib-js/stdlib/pull/10537) _(by Kamal Singh Rautela)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kamal Singh Rautela
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-07)
